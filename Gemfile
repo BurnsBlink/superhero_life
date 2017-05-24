@@ -16,6 +16,7 @@ gem 'jquery-rails'
 gem 'jbuilder', '~> 2.5'
 gem 'foundation-rails'
 gem "omniauth-google-oauth2", "~> 0.2.1"
+gem 'dotenv-rails'
 
 group :development, :test do
   gem 'byebug', platform: :mri
