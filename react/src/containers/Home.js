@@ -24,7 +24,7 @@ class Home extends Component {
   render() {
     return(
       <div className="row">
-        <div className="small-12 columns">
+        <div className="heroes small-12 columns">
           <h1 className="title">HomePage</h1>
         </div>
       </div>
