@@ -1,24 +1,13 @@
-# README
+Build your own Superhero teams.  Select from a vast array of heroes and villians to build unique team.  Utilizes the ComicVine API.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* To run on your own local device, clone repo, install packages/bundle, run 'rails s' + 'npm start' to start
 
-Things you may want to cover:
+* ReactJS Front End
 
-* Ruby version
+* Rails + PostgreSQL database Back End
 
-* System dependencies
+* Google OmniAuth
 
-* Configuration
+* npm test for running tests
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Search for a character on the home page, add a character to a team
